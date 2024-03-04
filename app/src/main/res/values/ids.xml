@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="button_1" type="id" />
+    <item name="button_2" type="id" />
+    <item name="button_3" type="id" />
+    <item name="button_4" type="id" />
+    <item name="button_5" type="id" />
+    <item name="fragment1" type="id" />
+    <item name="layout1" type="id" />
+    <item name="layout2" type="id" />
+    <item name="layout3" type="id" />
+    <item name="layout4" type="id" />
+    <item name="app_icon" type="id" />
+    <item name="app_name" type="id" />
+    <item name="app_detail" type="id" />
+    <item name="app_labels" type="id" />
+    <item name="app_info" type="id" />
+    <item name="vgv_recommend" type="id" />
+    <item name="vgv_music" type="id" />
+    <item name="vgv_movie" type="id" />
+    <item name="vgv_edu" type="id" />
+    <item name="vgv_game" type="id" />
+    <item name="app_card_icon" type="id" />
+    <item name="app_card_show" type="id" />
+    <item name="app_card_id" type="id" />
+    <item name="button_view" type="id" />
+    <item name="download_button" type="id" />
+    <item name="open_button" type="id" />
+    <item name="search" type="id" />
+
+</resources>
